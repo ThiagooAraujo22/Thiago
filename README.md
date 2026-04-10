@@ -15,3 +15,5 @@
 
 ## 📌 Objetivo
 Atuar na área de dados, utilizando tecnologia para análise e geração de insights que ajudem na tomada de decisões.
+📫 Contato
+- LinkedIn: (https://www.linkedin.com/in/thiago-araujo-92324721b/)
